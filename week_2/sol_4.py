@@ -1,3 +1,4 @@
+# 백준 1920 수찾기
 import sys
 
 def binary_search(target):

@@ -1,3 +1,4 @@
+# 백준 2805 나무자르기
 import sys
 
 def binary_search(height):

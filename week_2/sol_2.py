@@ -1,3 +1,4 @@
+# 백준 18870 좌표압축
 import sys
 
 N = int(sys.stdin.readline().rstrip())
